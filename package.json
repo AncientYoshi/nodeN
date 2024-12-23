@@ -13,7 +13,13 @@
 	},
 	"version": "1.0.0",
 	"description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/",
-	"keywords": [],
+	"keywords": [
+		"node.js",
+		"freecodecamp",
+		"npm",
+		"package",
+		"json"
+	],
 	"author": "Paing",
 	"description": "A backend project with fcc instruction and useful",
 	"license": "ISC",
